@@ -1,6 +1,6 @@
-![oh-github](https://github.com/hilaring/hilaring/blob/main/img/oh.png?raw=true)
 
 
+<img height="50px" width="auto" style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/hilaring/hilaring/blob/main/img/oh.png?raw=true">
 
 # Hi, I'm Oriol Hilari! 🙋🏼‍♂️
 
@@ -19,4 +19,8 @@ I'm Front End Developer *(but also interestet in Back End*) currently focused on
 - <a target="_blank" href="https://www.linkedin.com/in/oriol-hilari/">Linkedin</a><br>
 - <a target="_blank" href="https://ohilari.dev">Portfolio</a><br>
 - <a href="mailto:hello@ohilari.dev">Mail</a>
+
+
+
+
 
