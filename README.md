@@ -4,20 +4,22 @@
 
 # Hi, I'm Oriol Hilari! 🙋🏼‍♂️
 
-I'm Front End Developer *(but also interestet in Back End*) currently focused on **React.js**, who is passionate about  developing web pages, ecommerce, digital marketing, UX/UI and SEO. 
-
-> I'm currently based in Barcelona but I am open to projects from other parts of the world! 🌎
+I'm Front End Developer *(but also interestet in Back End*) currently focused on **React.js**, who is passionate about  developing web pages, ecommerce, digital marketing, UX/UI and SEO. <br>I'm currently based in Barcelona but I am open to projects from other parts of the world! 🌎
 
 ## Some other capabilities
 
-🧑🏻‍🤝‍🧑🏽 Customer management
-💬 Good communication
+🧑🏻‍🤝‍🧑🏽 Customer management<br>
+
+💬 Good communication<br>
+
 🤗 Create a good work environment
 
 ## Hobbies
 
-☕ Drink coffee 
-🎮 Play FIFA, I'm really good ;) 
+☕ Drink coffee <br>
+
+🎮 Play FIFA, I'm really good ;) <br>
+
 🎾 Training paddle
 
 ## Connect with me 
