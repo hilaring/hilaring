@@ -8,8 +8,6 @@ I'm Front End Developer *(but also interestet in Back End*) currently focused on
 
 I'm currently based in Barcelona but I am open to projects from other parts of the world! 🌎
 
-
-
 ## Some other capabilities
 
 🧑🏻‍🤝‍🧑🏽 Customer management
@@ -18,8 +16,6 @@ I'm currently based in Barcelona but I am open to projects from other parts of t
 
 🤗 Create a good work environment
 
-
-
 ## Hobbies
 
 ☕ Drink coffee 
@@ -27,8 +23,6 @@ I'm currently based in Barcelona but I am open to projects from other parts of t
 🎮 Play FIFA, I'm really good ;) 
 
 🎾 Training paddle
-
-
 
 ## Connect with me 
 
