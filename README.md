@@ -8,19 +8,11 @@ I'm Front End Developer *(but also interestet in Back End*) currently focused on
 
 ## Some other capabilities
 
-🧑🏻‍🤝‍🧑🏽 Customer management<br>
-
-💬 Good communication<br>
-
-🤗 Create a good work environment
+🧑🏻‍🤝‍🧑🏽 Customer management<br>💬 Good communication<br>🤗 Create a good work environment
 
 ## Hobbies
 
-☕ Drink coffee <br>
-
-🎮 Play FIFA, I'm really good ;) <br>
-
-🎾 Training paddle
+☕ Drink coffee <br>🎮 Play FIFA, I'm really good ;) <br>🎾 Training paddle
 
 ## Connect with me 
 
