@@ -16,9 +16,7 @@ I'm Front End Developer *(but also interestet in Back End*) currently focused on
 
 ## Connect with me 
 
-- <a target="_blank" href="https://www.linkedin.com/in/oriol-hilari/">Linkedin</a>
-
-- <a target="_blank" href="https://ohilari.dev">Portfolio</a>
-
+- <a target="_blank" href="https://www.linkedin.com/in/oriol-hilari/">Linkedin</a><br>
+- <a target="_blank" href="https://ohilari.dev">Portfolio</a><br>
 - <a href="mailto:hello@ohilari.dev">Mail</a>
 
