@@ -12,7 +12,7 @@ I'm Front End Developer *(also interested in Back End*) currently focused on **R
 
 ## Hobbies
 
-☕ Drink coffee <br>🎮 Playing FIFA, I'm really good ;) <br>🎾 Trying to be awesome at paddle
+☕ Drink coffee <br>🎮 Playing FIFA, I'm really good ;) <br>🏂 Snowboard <br>🎾 Trying to be awesome at paddle
 
 ## Connect with me 
 
