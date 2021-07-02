@@ -1,8 +1,8 @@
 
 
-# Hi, I'm Oriol Hilari! 🙋🏼‍♂️
+# Hi, I'm Oriol Hilari, 🙋🏼‍♂️
 
-I'm Front End Developer *(also interested in Back End*) currently focused on **React.js**, who is passionate about  developing web pages, ecommerce, digital marketing, UX/UI and SEO.<br>Nowadays I'm based in Barcelona but I am opened to projects from other parts of the world! 🌎
+I'm Front End Developer *(also interested in Back End*) currently focused on **React.js** and **Redux**, who is passionate about  developing web applications, websites, ecommerce, digital marketing, UX/UI and SEO.<br>Nowadays I'm based in Barcelona but I am opened to projects from other parts of the world! 🌎
 
 > **Updating projects using Hooks and Redux 👨🏼‍💻**
 
