@@ -2,7 +2,7 @@
 
 # Hi, I'm Oriol Hilari 🙋🏼‍♂️
 
-Senior Front End Developer *(also interested in Back End*) currently focused on **React.js** and **Redux**, who is passionate about  developing React web applications with good practices as TDD, Clean Code & Clean Architecture.<br>Based in Barcelona and opened to projects from other parts of the world! 🌎
+Senior Front End Developer *(also interested in Back End*) currently focused on **React.js**, **Redux**, and **Next.js** who is passionate about  developing React web applications with good practices as TDD, Clean Code & Clean Architecture.<br>Based in Barcelona and opened to projects from other parts of the world! 🌎
 
 ## Soft Skills
 
