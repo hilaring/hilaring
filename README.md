@@ -2,7 +2,7 @@
 
 # Hi, I'm Oriol Hilari 🙋🏼‍♂️
 
-Senior Front End Developer currently focused in **React.js** applications, SSR, Web Performance Optimization and **Next.js** who is passionate about good practices as DDD, TDD, Clean Code & Clean Architecture.<br>Based in Barcelona and opened to projects from other parts of the world! 🌎
+Senior Front End Developer currently focused in **React.js** applications, DDD, SSR, Web Performance Optimization and **Next.js** who is passionate about good practices as TDD, Clean Code & Clean Architecture.<br>Based in Barcelona and opened to projects from other parts of the world! 🌎
 
 ## Soft Skills
 
